@@ -1,5 +1,11 @@
 {
-  "version": "2026.09.09.01",
-  "updated": "2026-09-09",
-  "count_note": "absolute/highrisk/patterns 三个文件的总规则数以实际文件为准"
+  "version": "2026.09.11.01",
+  "updated": "2026-09-11",
+  "description": "X-Twitter-Spam-Cleaner remote keyword set",
+  "files": {
+    "absolute": "absolute.txt",
+    "highrisk": "highrisk.txt",
+    "patterns": "patterns.txt",
+    "whitelist": "whitelist.txt"
+  }
 }

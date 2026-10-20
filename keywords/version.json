@@ -1,11 +1,12 @@
 {
-  "version": "2026.09.11.01",
-  "updated": "2026-09-11",
+  "version": "2026.10.20.01",
+  "updated": "2026-10-20",
   "description": "X-Twitter-Spam-Cleaner remote keyword set",
   "files": {
     "absolute": "absolute.txt",
     "highrisk": "highrisk.txt",
     "patterns": "patterns.txt",
     "whitelist": "whitelist.txt"
-  }
+  },
+  "notes": "Merged keywords/ and keywords/keywords/; deduped; generic words moved to review_only; fixed regex escaping."
 }
